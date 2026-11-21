@@ -14,6 +14,7 @@ vision features and a regularised linear model. No deep learning is used.
 
 ## Results
 | Metric | Value |
+|---|---|
 | Mean landmark error | 3.13 px |
 | Median error | 2.69 px |
 | MSE | 7.19 |
